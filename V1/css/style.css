@@ -5,6 +5,10 @@ body {
     height: 100vh;
 }
 
+.cursor--no {
+    display: none;
+}
+
 .cursor {
     width: 20px;
     height: 20px;
