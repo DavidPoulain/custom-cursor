@@ -10,8 +10,8 @@ body {
 }
 
 .cursor {
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
     border: 1px solid white;
     border-radius: 50%;
     position: absolute;
