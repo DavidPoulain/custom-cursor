@@ -14,7 +14,9 @@ body {
     height: 30px;
     border: 1px solid white;
     border-radius: 50%;
-    position: absolute;
+    position: fixed;
     transition-duration: 70ms;
     transition-timing-function: ease-out;
+
 }
+
