@@ -1,7 +1,7 @@
 # custom-cursor
 The goal of this code is making a custom cursor that I can use on futur project like my personnal website / portfolio.
 
-## upadate 13.03.22
+## update 13.03.22
 I manage to hide the custom cursor when the cursor is over an iframe. 
 I did with help of stackoverflow : https://stackoverflow.com/questions/60226410/hide-custom-cursor-when-mouseover-on-iframe
 
