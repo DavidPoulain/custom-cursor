@@ -3,6 +3,9 @@ The goal of this code is making a custom cursor that I can use on futur project 
 
 ## Demo
 
+https://user-images.githubusercontent.com/96908453/164896751-0c4a6098-dc47-48a6-8953-3408cefe57ce.mp4
+
+
 ## update 13.03.22
 I manage to hide the custom cursor when the cursor is over an iframe. 
 I did with help of stackoverflow : https://stackoverflow.com/questions/60226410/hide-custom-cursor-when-mouseover-on-iframe
